@@ -8,6 +8,7 @@ import { from, fromEvent, of, timer, combineLatest } from 'rxjs';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
+  
   name = 'Angular';
 
   /**
